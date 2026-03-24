@@ -14,8 +14,18 @@ My ultimate goal is to become a **Data Engineer**, building scalable, reliable, 
 
 ---
 
-### 🛠️ Skills & Tools  
-**Skills:** Python • SQL • R • Java • C++ • Airflow • AWS • Docker • PostgreSQL • MySQL • Pandas • NumPy • Power BI • Scikit-learn • XGBoost • TensorFlow
+### 🛠️ Skills & Technologies
+
+- **Programming:** Python  
+- **Data Analysis:** Pandas, NumPy  
+- **Machine Learning:** Scikit-learn, XGBoost, Binary Classification  
+- **Modeling Techniques:** Feature Engineering, Hyperparameter Tuning, Probability Calibration  
+- **Evaluation Metrics:** ROC-AUC, PR-AUC, Brier Score  
+- **Data Engineering:** ETL Pipelines, Data Processing, Batch Pipelines  
+- **MLOps:** Model Serialization, FastAPI (in progress), Reproducible Pipelines  
+- **Analytics:** Churn Prediction, Customer Segmentation, Revenue at Risk Analysis  
+- **Visualization:** Power BI, Dashboarding  
+- **Tools:** Git, Jupyter Notebook  
 
 ### 🛠️ Languages & Tools
 
