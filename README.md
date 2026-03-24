@@ -37,6 +37,14 @@ My ultimate goal is to become a **Data Engineer**, building scalable, reliable, 
 
 ### 💼 Featured Projects  
 
+### 📊 Customer Churn Prediction System
+- Developed an end-to-end customer churn prediction system using XGBoost, transforming raw transactional data into actionable insights through feature engineering and model calibration.
+- Designed a modular pipeline for data processing, training, and batch scoring across historical snapshots.
+- Implemented in Power BI business-focused outputs including risk segmentation and revenue-at-risk estimation to support retention strategies.
+- Currently integrating a FastAPI service to enable real-time predictions in a production setting.
+
+---
+
 #### 📊 Reddit Data Engineering Project  
 - Built a data pipeline that ingested Reddit data into an **S3 bucket**.  
 - Designed the pipeline for scalability, enabling structured storage and efficient downstream analysis.  
