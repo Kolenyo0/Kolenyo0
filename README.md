@@ -50,7 +50,8 @@ My ultimate goal is to become a **Data Engineer**, building scalable, reliable, 
 ### Job Intelligence Platform | Python, SQL, PostgreSQL, dbt, Apache Airflow, Docker, AWS EC2, Power BI
 - Built and deployed a daily job-data pipeline on AWS EC2 using Python, Airflow, and Docker Compose, validating ingestion through dbt transformation in a successful cloud end-to-end test.
 - Developed 6 dbt models, including a job-posting fact model and 3 dimensions, with 31 passing data-quality tests for uniqueness, required fields, referential integrity, and fact preservation.
-- Implemented watermark-based incremental ingestion, transactional PostgreSQL UPSERTs, raw-snapshot replay, and pipeline-run logging; processed 4,666 records in a validation run and verified a subsequent run detected no new records.
+- Implemented watermark-based incremental ingestion, transactional PostgreSQL UPSERTs, raw-snapshot replay, and pipeline-run log; processed 4,666 records in a validation run and verified a subsequent run detected no new records.
+- Successful EC2 deployment and recovery of 26,699 postings through a replay tool.
 - Created a Power BI executive dashboard using curated PostgreSQL models to analyze job postings by company, location, role, and remote status.
 
 ---
